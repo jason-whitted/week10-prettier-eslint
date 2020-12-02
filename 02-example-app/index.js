@@ -12,5 +12,5 @@ for(let i=0;i<5;i++)
 
 }
   
-  return arr.filter(n => n % 2 === 0).map(n => n.toString).reverse().join('|')
+  return arr.filter(n => n % 2 == 0).map(n => n.toString).reverse().join('|')
 }

@@ -1,4 +1,4 @@
-# Prettier: Usage
+# Prettier: Setup
 
 ## VS Code Setup
 
