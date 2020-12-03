@@ -17,8 +17,8 @@
     "extends": "react-app",
     "rules": {
       "eqeqeq": "error",
-      "no-console": "warning",
-      "no-debugger": "warning",
+      "no-console": "warn",
+      "no-debugger": "warn",
       "no-var": "error",
       "prefer-const": "error"
     }
